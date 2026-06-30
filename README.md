@@ -55,16 +55,6 @@ Una API robusta construida con las últimas versiones de **.NET** (ASP.NET Core 
 * **Backend:** C# / .NET 10, SQL Server.
 * **Características:** Implementa una arquitectura por capas (*Clean Architecture*), autenticación por tokens JWT, manejo seguro de errores con Middlewares de excepción personalizados, resiliencia con Polly, y documentación interactiva con Swagger/OpenAPI.
 
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WeFake123&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub de Augusto" height="190px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeFake123&layout=compact&theme=tokyonight&langs_count=6" alt="Lenguajes más usados por Augusto" height="190px"/>
-</div>
-
----
 
 ### 📬 ¡Conectemos!
 
