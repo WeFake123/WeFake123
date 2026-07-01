@@ -60,8 +60,8 @@ Una API robusta construida con las últimas versiones de **.NET** (ASP.NET Core 
 
 Estoy buscando activamente oportunidades para dar mis primeros pasos profesionales como Desarrollador Junior / Trainee. ¡Hablemos!
 
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/augusto-magi-89519021a/] *(Reemplaza con tu enlace real)*
-* 📧 **Correo Electrónico:** [augustoagi12345@gmail.com] *(Reemplaza con tu dirección real)*
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/augusto-magi-89519021a/] 
+* 📧 **Correo Electrónico:** [augustoagi12345@gmail.com] 
 * 📍 **Ubicación:** Rosario, Santa Fe, Argentina 🇦🇷
 
 ---
